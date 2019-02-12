@@ -1,4 +1,5 @@
 from .boussinesq import BoussinesqChannelFlow
+from .frontalzone import FrontalZone
 from .navier_stokes import NavierStokesTriplyPeriodicFlow
 
 from .closures import ConstantSmagorinsky, AnisotropicMinimumDissipation
